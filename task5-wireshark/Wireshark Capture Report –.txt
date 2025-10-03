@@ -44,7 +44,6 @@ All packets were identified as **Transmission Control Protocol (TCP).
 ---
 
 ## 5. Files Included
-- `capture.pcapng` – raw packet capture
 - `screenshots/` – Wireshark interface and TCP analysis
 - `report.md` – this report
 
@@ -52,4 +51,5 @@ All packets were identified as **Transmission Control Protocol (TCP).
 
 ## 6. Conclusion
 The capture demonstrates that modern web activity primarily uses TCP as the transport layer, ensuring reliable data transfer.  
+
 All packets displayed expected handshake and acknowledgment behavior, with no packet loss or retransmission anomalies observed in this short test
